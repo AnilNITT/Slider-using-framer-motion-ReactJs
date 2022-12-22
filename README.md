@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+<img src="https://raw.githubusercontent.com/AnilNITT/Slider-using-framer-motion-ReactJs/master/Capture.PNG" />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
